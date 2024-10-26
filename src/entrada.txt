@@ -1,0 +1,4 @@
+Hello world. This is a simple text file to test word frequency counting.
+Counting the frequency of each word in a text file is a common task in programming.
+Hello again, world! Let's see how many times each word appears in this text.
+
